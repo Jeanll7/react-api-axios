@@ -1,8 +1,17 @@
 body {
-    background: #122;
-    color: #fff;
+    background: #ffdeee;
+    color: #222;
 }
 
-.App {
-    text-align: center;
+.header {
+    display: flex;
+}
+
+.input {
+    width: 15rem;
+}
+
+.button {
+    padding: 5px 10px;
+    margin-left: 5px;
 }
